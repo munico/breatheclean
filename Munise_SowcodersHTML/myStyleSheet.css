@@ -1,0 +1,144 @@
+
+h1 {
+  color: #29a3a3;
+  font-family: Helvetica;
+  font-size: 40px;
+  text-align: center;
+  background-color: #ebfafa;
+  font-style: italic;
+  font-weight: 800;
+}
+
+h5 {
+  color: black;
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 600;
+}
+
+a {
+  color: #5cd6d6;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+body {
+  background-color: white;
+}
+
+.source {
+  color: #5cd6d6;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 200;
+}
+
+#air2 {
+  height:60%;
+  width: 40%;
+}
+
+#air1 {
+  height: 40%;
+  width: 40%;
+}
+
+#air5 {
+  height: 40%;
+   width: 50%;
+}
+#air6 {
+  height: 70%;
+  width: 70%;
+}
+
+#air7 {
+  height: 70%;
+  width: 70%;
+}
+.intro {
+  font-size: 25px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+}
+
+
+.one {
+  color: #5cd6d6;
+}
+
+.two {
+  color: #5cd6d6;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 200;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.list2 {
+  background-color: #ebfafa;
+  padding: 70px 25px 50px 80px;
+  border: 10px solid #29a3a3;
+  margin: 50px 45px 25px 30px;
+  color: #29a3a3;
+  font-weight: 800;
+  font-family: Helvetica;
+  font-style: italic;
+}
+
+.listexp {
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.space2 {
+  background-color: #ebfafa;
+  padding: 70px 25px 50px 80px;
+  border: 10px solid #29a3a3;
+  margin: 50px 45px 25px 30px;
+  font-size: 20px;
+  color: #29a3a3;
+  font-weight: 800;
+  font-family: Helvetica;
+  font-style: italic;
+}
+
+
+.button {
+  display: square;
+  height: 30%;
+  background-color: green;
+  font-size: 35px;
+  text-align: center;
+}
+
+.myForm {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: #ebfafa;
+
+}
+
+.menu, .footerbar{
+  background-color: #ebfafa;
+  margin: 10;
+  padding: 0px;
+}
+
+.menu a, .footerbar a{
+  display: block;
+  padding: 15px 12px;
+  margin: 10;
+  color: #5cd6d6;
+  text-decoration: none;
+  float: left;
+  background-color: #ebfafa;
+}
